@@ -1,6 +1,6 @@
-let apiKey = "";
-let geofencingAdminKey = "";
-let geofencingProjectId = "";
+let apiKey = "6PXRGiAAIZY3AqoYRIkP6vq101SYVD8b";
+let geofencingAdminKey = "H133tsKViBULaH7llOefNkoclaZreGbpSa8aLnypjRjNiZxH";
+let geofencingProjectId = "31b8b75d-1fa2-45c6-8afb-02728a694508";
 
 const circleCenterHint = "Click on a map to select the center point.";
 const circleRadiusHint = "Click on a map to set the circle radius.";
